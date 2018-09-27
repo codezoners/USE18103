@@ -1,6 +1,7 @@
 # Coding, Figures and Visuals
 
 | Week | Date | In Class | Homework |
+| ---  | ---  | ---      | ---      |
 |  W1 | 2018-10-03 | Introduction<BR>Course documents<BR>Clock designs<BR>First steps with Processing | x |
 |  W2 | 2018-10-11 | x | x |
 |  W3 | 2018-10-18 | x | x |
