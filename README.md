@@ -3,7 +3,7 @@
 | Week | Date | In Class | Homework |
 | ---  | ---  | ---      | ---      |
 |  W1 | Wed 2018-10-03 | Introduction<BR>Course documents<BR>Clock designs<BR>First steps with Processing | Clock research |
-|  W2 | Thu 2018-10-11 | More Processing: loops and lists<BR>Matrices: rotation and translation | |
+|  W2 | Thu 2018-10-11 | More Processing:<BR>Modern art<BR>Matrices: rotation and translation<BR>Loops | |
 |  W3 | Thu 2018-10-18 | Working with fonts and text | |
 |  W4 | - | Reading week | Visual clock design |
 |  W5 | Thu 2018-11-01 | *Formative presentations*<BR>Clocks and interaction| |
