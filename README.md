@@ -4,7 +4,7 @@
 | ---  | ---  | ---      | ---      |
 |  W1 | Wed 2018-10-03 | Introduction<BR>Course documents<BR>Clock designs<BR>First steps with Processing | Clock research |
 |  W2 | Thu 2018-10-11 | More Processing: loops and lists<BR>Matrices: rotation and translation | Bauhaus lamp<BR>First steps with time |
-|  W3 | Thu 2018-10-18 | Working with fonts and text | |
+|  W3 | Thu 2018-10-18 | Working with fonts and text<BR>Time functions<BR>Lists and mapping | |
 |  W4 | - | Reading week | Visual clock design |
 |  W5 | Thu 2018-11-01 | *Formative presentations*<BR>Clocks and interaction| |
 |  W6 | Thu 2018-11-08 | Introduction to Arduino | |
