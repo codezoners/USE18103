@@ -39,4 +39,4 @@ Coding exercises first:
 
 - Can you finish off the digital clock that we started on this afternoon? It should look something like this:
 
-![Digital Clock](clock.png)
+![Digital Clock](https://raw.githubusercontent.com/codezoners/USE18103/master/images/clock.png)
