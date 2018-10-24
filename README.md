@@ -33,10 +33,18 @@ A little bit of tidying up, and a bit of preparation for next week.
 
 ### Week 3
 
-Reading Week! Not too much to do in terms of coding, but now it's time to do some design!
+Reading Week! A bit of coding, and a bit of design:
 
 Coding exercises first:
 
 - Can you finish off the digital clock that we started on this afternoon? It should look something like this:
 
 ![Digital Clock](https://raw.githubusercontent.com/codezoners/USE18103/master/images/clock.png)
+
+- Note the background "shadow" to all the digits: can you reproduce this?
+  
+- Can you make the colons between the digits flash once a second? (In other words: "on" one second, "off" the next. Doing the "on"/"off" cycle within one second requires sub-second timing, and we've not looked at how to do that yet.)
+
+- Integration: can you create a sketch which combines the digital clock with one of the other time-based animations we worked on last session? Think of it as a digital clock with animated decoration.
+
+- Design: for your formative presentations, put together some provisional designs for your clock. These don't have to be coded: you can do hand sketches or use some other tools. Do at least two different designs. For each design, come up with an *interaction model* for the clock: how many modes does it have? What will the button(s) do (how many do you need?), and how will the interaction show itself on screen?
