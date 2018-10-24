@@ -4,9 +4,9 @@
 | ---  | ---  | ---      | ---      |
 |  W1 | Wed 2018-10-03 | Introduction<BR>Course documents<BR>Clock designs<BR>First steps with Processing | Clock research |
 |  W2 | Thu 2018-10-11 | More Processing: loops and lists<BR>Matrices: rotation and translation | Bauhaus lamp<BR>First steps with time |
-|  W3 | Thu 2018-10-18 | Working with fonts and text<BR>Time functions<BR>Lists and mapping | |
-|  W4 | - | Reading week | Visual clock design |
-|  W5 | Thu 2018-11-01 | *Formative presentations*<BR>Clocks and interaction| |
+|  W3 | Thu 2018-10-18 | Working with fonts and text<BR>Time functions<BR>Lists and mapping | Coding wrap-up exercises |
+|  W4 | - | Reading week | Visual clock design and interaction |
+|  W5 | Thu 2018-11-01 | *Formative presentations*<BR>Clocks and interaction | |
 |  W6 | Thu 2018-11-08 | Introduction to Arduino | |
 |  W7 | Thu 2018-11-15 | Breadboarding<BR>Coding techniques in C | |
 |  W8 | Thu 2018-11-22 | One-button techniques<BR>Serial interaction | |
@@ -44,6 +44,8 @@ Coding exercises first:
 - Note the background "shadow" to all the digits: can you reproduce this?
   
 - Can you make the colons between the digits flash once a second? (In other words: "on" one second, "off" the next. Doing the "on"/"off" cycle within one second requires sub-second timing, and we've not looked at how to do that yet.)
+
+- We worked with Python lists and iteration last session: if you're not sure how these work, do a bit of revision. There's a page on lists [here](https://www.w3schools.com/python/python_lists.asp).
 
 - Integration: can you create a sketch which combines the digital clock with one of the other time-based animations we worked on last session? Think of it as a digital clock with animated decoration.
 
