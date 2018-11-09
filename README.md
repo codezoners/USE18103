@@ -50,3 +50,33 @@ Coding exercises first:
 - Integration: can you create a sketch which combines the digital clock with one of the other time-based animations we worked on last session? Think of it as a digital clock with animated decoration.
 
 - Design: for your formative presentations, put together some provisional designs for your clock. These don't have to be coded: you can do hand sketches or use some other tools. Do at least two different designs. For each design, come up with an *interaction model* for the clock: how many modes does it have? What will the button(s) do (how many do you need?), and how will the interaction show itself on screen?
+
+### Week 4
+
+Reading Week continued.
+
+### Week 5
+
+Clock presentations.
+
+### Week 6
+
+We covered Arduino basics (LEDs, buttons, C coding) pretty quickly in class, so homework this time is about revision: basic electrical circuits, and the C coding we did to work with LEDs and buttons. You'll be expected to know this to continue with more Arduino work next week.
+
+Some revision material for you:
+
+- [Ohm's Law](https://learn.sparkfun.com/tutorials/voltage-current-resistance-and-ohms-law/all) (voltage, current, resistance)
+- [Arduino: Blinking LED](https://www.instructables.com/id/Arduino-Blinking-LED/)
+- [Arduino: Button](https://www.arduino.cc/en/Tutorial/Button)
+
+You'll need to buy some Arduino kit for your clock project next term, so you might as well do that now. You should buy:
+
+- One [Arduino](https://uk.rs-online.com/web/p/processor-microcontroller-development-kits/7154081/)
+- One [breadboard](https://uk.rs-online.com/web/p/breadboards/1029147/)
+- A [jumper wire kit](https://uk.rs-online.com/web/p/products/7916463/) (in fact, maybe get a couple of those - make sure they are male-to-male)
+
+There will be additional stuff to buy next term.
+
+We have LEDs, buttons and resistors that you can borrow, but if you want to get anything fancy (like the [expensive white LEDs](https://uk.rs-online.com/web/c/displays-optoelectronics/leds-led-accessories/visible-leds/)) then feel free to splash out. Watch the prices though - many have to be bought in quantities of 100.
+
+For the C programming language, here's a [nice online resource](https://www.learn-c.org/). See how far you can get through the "Basics" section. I'll be assuming you've worked through these examples next week!
