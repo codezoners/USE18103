@@ -6,7 +6,7 @@
 |  W2 | Thu 2018-10-11 | More Processing: loops and lists<BR>Matrices: rotation and translation | Bauhaus lamp<BR>First steps with time |
 |  W3 | Thu 2018-10-18 | Working with fonts and text<BR>Time functions<BR>Lists and mapping | Coding wrap-up exercises |
 |  W4 | - | Reading week | Visual clock design and interaction |
-|  W5 | Thu 2018-11-01 | *Formative presentations*<BR>Clocks and interaction | |
+|  W5 | Thu 2018-11-01 | *Formative presentations*<BR>Clocks and interaction | Post-formative breather! |
 |  W6 | Thu 2018-11-08 | Introduction to Arduino | Ohm's Law<BR>Arduino basics<BR>C programming basics |
 |  W7 | Thu 2018-11-15 | Breadboarding<BR>Coding techniques in C | |
 |  W8 | Thu 2018-11-22 | One-button techniques<BR>Serial interaction | |
