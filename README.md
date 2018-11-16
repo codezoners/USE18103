@@ -8,9 +8,9 @@
 |  W4 | - | Reading week | Visual clock design and interaction |
 |  W5 | Thu 2018-11-01 | *Formative presentations*<BR>Clocks and interaction | Post-formative breather! |
 |  W6 | Thu 2018-11-08 | Introduction to Arduino | Ohm's Law<BR>Arduino basics<BR>C programming basics |
-|  W7 | Thu 2018-11-15 | Breadboarding<BR>Coding techniques in C | |
-|  W8 | Thu 2018-11-22 | One-button techniques<BR>Serial interaction | |
-|  W9 | Thu 2018-11-29 | Deeper C coding<BR>Design documentation | |
+|  W7 | Thu 2018-11-15 | More breadboarding<BR>Serial interaction | |
+|  W8 | Thu 2018-11-22 | Timers and one-button techniques| |
+|  W9 | Thu 2018-11-29 | Deeper coding and revision<BR>Design documentation | |
 | W10 | Thu 2018-12-06 | *Formative presentations*<BR>Design finesse | |
 | W11 | (Thu 2018-12-13 10:00) | *Summative hand-in* | |
 
@@ -72,6 +72,7 @@ Some revision material for you:
 You'll need to buy some Arduino kit for your clock project next term, so you might as well do that now. You should buy:
 
 - One [Arduino](https://uk.rs-online.com/web/p/processor-microcontroller-development-kits/7154081/)
+- A [USB Cable](https://www.amazon.co.uk/dp/B00P0FO1P0/)
 - One [breadboard](https://uk.rs-online.com/web/p/breadboards/1029147/)
 - A [jumper wire kit](https://uk.rs-online.com/web/p/products/7916463/) (in fact, maybe get a couple of those - make sure they are male-to-male)
 
@@ -80,3 +81,15 @@ There will be additional stuff to buy next term.
 We have LEDs, buttons and resistors that you can borrow, but if you want to get anything fancy (like the [expensive white LEDs](https://uk.rs-online.com/web/c/displays-optoelectronics/leds-led-accessories/visible-leds/)) then feel free to splash out. Watch the prices though - many have to be bought in quantities of 100.
 
 For the C programming language, here's a [nice online resource](https://www.learn-c.org/). See how far you can get through the "Basics" section. I'll be assuming you've worked through these examples next week!
+
+### Week 7
+
+Well done on getting through the session yesterday! You now have experience in two very different programming languages, and we haven't even finished the first term yet.
+
+There isn't much else to cover in terms of new material for this unit - you now know enough to finish the project to a good level of `quality. What we'll be doing over the remaining weeks is refinement: more practice in areas we've looked at already, filling in holes in understanding, and generally bedding down the skills you've acquired to date.
+
+Here's a handful of exercises.
+
+- If you don't have your Arduino kit yet, you won't be able to work on the Processing sketches we wrote, because they are triggered by the Arduino. Can you convert the timer sketch to work with computer keyboard input rather than Arduino input? (Make a copy of the sketch, since once you have an Arduino you'll go back to using that.) Look at the `keyPressed()` function [here](https://py.processing.org/reference/keyPressed.html) and the `key` variable [here](https://py.processing.org/reference/key.html).
+- Can you make the timer "hands" start at the top of the window, not at the right hand side? (Think about how we calculate the rotation angle, and research into degrees vs. radians; for any 3D graphics work understanding radians is essential.)
+- Harder: use the two buttons (or two keyboard keys) to implement a more sophisticated stopwatch. The first button should start and pause (press to start, press to pause, press to resume). The second button is a reset to zero. (If you get that working, do some research into lap timers and see if you can implement one of those!)
